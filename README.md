@@ -71,6 +71,14 @@ node index.js
 localhost:3000
 ```
 
+* Add test to "puppeteer.js" in the Server root folder.
+* To execute tests, open a new Terminal Windows in the Server Root and execute...
+```
+node puppeteer
+```
+
+
+
 * Demonstration of app startup...
 
 <p align="left"><img src=".\public\images\app-startup.png" width="720" title="Server Startup..."></p>
